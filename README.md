@@ -1,3 +1,4 @@
-hi :) I am Navneet Nair.
+Hey :) I am Navneet Nair.
 
- 🌱 I’m currently learning Web Development, C, C++
+I'm currently focussing on my DSA skills.
+I'm also learning Web dev.

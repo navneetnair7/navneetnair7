@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Navneet Nair</h1>
-- 🔭 I’m currently working on **my DSA skills.**
-
 - 🌱 I’m currently learning **Full Stack Development.**
 
 - 📫 How to reach me **navneetnair95@gmail.com**

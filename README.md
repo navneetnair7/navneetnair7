@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navneet Nair</h1>
-- 🔭 I’m currently working on **my Web Development Skills**
+- 🔭 I’m currently working on ** my Web Development Skills **
 
 - 📫 How to reach me **navneetnair95@gmail.com**
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Navneet Nair</h1>
-🔭 I’m currently working on **my Web Development Skills**
-📫 How to reach me **navneetnair95@gmail.com**
+🔭 I’m currently working on **my Web Development Skills
+📫 How to reach me **navneetnair95@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
